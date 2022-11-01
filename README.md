@@ -8,4 +8,6 @@ Znajomość zagadnień z zakresu **ISTQB**, wykonywanie testów wielopoziomowych
 # Edukacja
 05.2022 - 07.2022 - Bootcamp Future Collars – szkolenie zakończone egzaminem i [certyfikatem](https://drive.google.com/file/d/1saez94_yu8IKMsPXCIFByybV9GNAlyA-/view?usp=share_link) – **Tester Oprogramowania** (w wymiarze 120h)
  
-10.2015 - 04.2019 - Wyższa Szkoła Ekonomii i Innowacji w Lublinie kierunek Informatyka: Systemy i Sieci Komputerowe  (tytuł - **Inżynier** - [praca inżynierska](https://drive.google.com/file/d/1F8k1ZuTnM3C1tgWbN2t1hdTYuyk57zU_/view?usp=share_link))
+10.2015 - 04.2019 - Wyższa Szkoła Ekonomii i Innowacji w Lublinie - kierunek Informatyka: Systemy i Sieci Komputerowe  (tytuł - **Inżynier** - [praca inżynierska](https://drive.google.com/file/d/1F8k1ZuTnM3C1tgWbN2t1hdTYuyk57zU_/view?usp=share_link))
+# Moja dokumentacja
+### Aplikacja webowa www.logitycoon.com
