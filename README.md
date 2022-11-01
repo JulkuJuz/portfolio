@@ -12,3 +12,6 @@ Znajomość zagadnień z zakresu **ISTQB**, wykonywanie testów wielopoziomowych
 # Moja dokumentacja
 * ### Aplikacja webowa logitycoon.com - wolontariat - w trakcie
 [Zgłoszenia **błądów**/**bugów**](https://drive.google.com/drive/folders/1RtPooAvpDb4xP_zCo499pVZo9L3Ng5fz?usp=share_link)
+* ### Przypadki różne
+[Przykład scenariusza i przypadku testowego](https://drive.google.com/file/d/1wVSC0UkK--McgaNxxsIzxJQcOd9Votmi/view?usp=share_link)
+[Przykład zgłoszenia błędu](https://drive.google.com/file/d/1og09UE0yub-_ocmtokqyKCP8mWP2kZ7i/view?usp=share_link)
