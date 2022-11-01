@@ -1,5 +1,5 @@
 # Portfolio
->#### [Juliusz Chmielewski](/https://drive.google.com/file/d/1qzqw_wnMRiS7ochy2FergpLTGcllmuR5/view?usp=sharing/zdjęcie.png)
+#### ![Juliusz Chmielewski](https://zapodaj.net/a8348d01ce6e6.jpg.html)
 # O mnie 
 Po ostatnich siedmiu latach spędzonych w Orange Polska S.A. i zdobywaniu wiedzy w branży telekomunikacyjnej wziąłem udział w intensywnym 8-mio tygodniowym Bootcampie z Future Collars z zakresu **ISTQB** i ukończyłem szkolenie na **Testera Oprogramowania**, żeby <em>robić to co lubię w połączeniu z tym czego się nauczyłem</em>. Zdobyłem wiedzę dotyczącą **poziomów**, **typów testów**, **technik testowania**, **zgłaszania błędów** i obsługi narzędzi typu **Jira**, **Xray** oraz podstaw **SQL**'a. Brałem udział w dwóch <em>Sprintach</em> w których poznałem **<em>techniki Scrumowe</em>**. 
 Z nowymi wyzwaniami wiąże spore nadzieję. Chcę poznawać meandry zawodu, doszkalać się, rozwinąć tak bym mógł w przyszłości poza manualnymi testami realizować testy automatyczne. 
