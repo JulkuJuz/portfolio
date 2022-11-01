@@ -17,7 +17,7 @@ Znajomość zagadnień z zakresu **ISTQB**, wykonywanie testów wielopoziomowych
 * ### Projekt Facebookowy testowania przeglądarki Altroo - wolontariat - dobiegł końca
 [Testy, posty](https://drive.google.com/drive/folders/1_UGW_6ZykBoRoCrtVE9IDatAEv-w9UwQ?usp=share_link)
 
-[**Wyróżnienia**](https://drive.google.com/file/d/1XVYNTioVkQ8wMdHNIqrvlACP642w05ak/view?usp=share_link)
+[**Wyróżnienie**](https://drive.google.com/file/d/1XVYNTioVkQ8wMdHNIqrvlACP642w05ak/view?usp=share_link)
 
 * ### Przypadki różne
 [Przykład **scenariusza** i **przypadku testowego**](https://drive.google.com/file/d/1wVSC0UkK--McgaNxxsIzxJQcOd9Votmi/view?usp=share_link)
