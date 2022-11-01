@@ -10,5 +10,5 @@ Znajomość zagadnień z zakresu **ISTQB**, wykonywanie testów wielopoziomowych
  
 10.2015 - 04.2019 - Wyższa Szkoła Ekonomii i Innowacji w Lublinie - kierunek Informatyka: Systemy i Sieci Komputerowe  (tytuł - **Inżynier** - [praca inżynierska](https://drive.google.com/file/d/1F8k1ZuTnM3C1tgWbN2t1hdTYuyk57zU_/view?usp=share_link))
 # Moja dokumentacja
-### Aplikacja webowa logitycoon.com
+* ### Aplikacja webowa logitycoon.com - wolontariat - w trakcie
 [Zgłoszenia **błądów**/**bugów**](https://drive.google.com/drive/folders/1RtPooAvpDb4xP_zCo499pVZo9L3Ng5fz?usp=share_link)
