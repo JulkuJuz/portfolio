@@ -14,7 +14,7 @@ Znajomość zagadnień z zakresu **ISTQB**, wykonywanie testów wielopoziomowych
 * ### Aplikacja webowa logitycoon.com - wolontariat - w trakcie
 [Zgłoszenia **błądów**/**bugów**](https://drive.google.com/drive/folders/1RtPooAvpDb4xP_zCo499pVZo9L3Ng5fz?usp=share_link)
 
-* ### Projekt Facebookowy testowania przeglądarki Altroo 
+* ### Projekt Facebookowy testowania przeglądarki Altroo - wolontariat - dobiegł końca
 [Testy, posty](https://drive.google.com/drive/folders/1_UGW_6ZykBoRoCrtVE9IDatAEv-w9UwQ?usp=share_link)
 
 [**Wyróżnienia**](https://drive.google.com/file/d/1XVYNTioVkQ8wMdHNIqrvlACP642w05ak/view?usp=share_link)
