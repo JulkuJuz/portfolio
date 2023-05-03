@@ -22,6 +22,8 @@ Znajomość zagadnień z zakresu **ISTQB**, wykonywanie testów wielopoziomowych
 * ### Przypadki różne/pojedyncze/eksploracyjne
 [Zgłoszenie błędu w portalu **https://remigiuszbednarczyk.pl/**](https://drive.google.com/drive/folders/160palwrRN7tiuE0lFATs2U3ob0tJFjb-?usp=share_link)
 
+[Zgłoszenie błędu w portalu **https://radio357.pl/**](https://drive.google.com/file/d/1BcpZzTEiuymDyini-N6QAvo-lVZNGK7j/view?usp=share_link)
+
 [Przykład **scenariusza** i **przypadku testowego**](https://drive.google.com/file/d/1wVSC0UkK--McgaNxxsIzxJQcOd9Votmi/view?usp=share_link)
 
 [Przykład **zgłoszenia błędu**](https://drive.google.com/file/d/1og09UE0yub-_ocmtokqyKCP8mWP2kZ7i/view?usp=share_link)
